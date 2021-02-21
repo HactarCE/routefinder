@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["routefinder"] = [{"text":"impl&lt;'router, 'path, T&gt; PartialEq&lt;Match&lt;'router, 'path, T&gt;&gt; for Match&lt;'router, 'path, T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;T&gt; PartialEq&lt;Route&lt;T&gt;&gt; for Route&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl PartialEq&lt;RouteSpec&gt; for RouteSpec","synthetic":false,"types":[]},{"text":"impl PartialEq&lt;Segment&gt; for Segment","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

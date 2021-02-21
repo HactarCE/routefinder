@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["routefinder"] = [{"text":"impl&lt;'router, 'path, T&gt; Ord for Match&lt;'router, 'path, T&gt;","synthetic":false,"types":[]},{"text":"impl&lt;T&gt; Ord for Route&lt;T&gt;","synthetic":false,"types":[]},{"text":"impl Ord for RouteSpec","synthetic":false,"types":[]},{"text":"impl Ord for Segment","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
